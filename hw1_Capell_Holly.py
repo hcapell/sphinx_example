@@ -1,7 +1,7 @@
 """
-Created on March, 2018
+Created on March 23, 2018
 
-@author: Diane Woodbridge
+@author: Holly Capell
 """
 import sys
 import os
